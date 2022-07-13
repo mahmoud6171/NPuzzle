@@ -1,0 +1,45 @@
+D:\Projects\Algorithm\NPuzzle\NPuzzle\bin\Debug\net6.0\NPuzzle.exe
+D:\Projects\Algorithm\NPuzzle\NPuzzle\bin\Debug\net6.0\NPuzzle.deps.json
+D:\Projects\Algorithm\NPuzzle\NPuzzle\bin\Debug\net6.0\NPuzzle.runtimeconfig.json
+D:\Projects\Algorithm\NPuzzle\NPuzzle\bin\Debug\net6.0\NPuzzle.dll
+D:\Projects\Algorithm\NPuzzle\NPuzzle\bin\Debug\net6.0\NPuzzle.pdb
+D:\Projects\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.csproj.AssemblyReference.cache
+D:\Projects\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.AssemblyInfoInputs.cache
+D:\Projects\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.AssemblyInfo.cs
+D:\Projects\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.csproj.CoreCompileInputs.cache
+D:\Projects\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.dll
+D:\Projects\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\refint\NPuzzle.dll
+D:\Projects\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.pdb
+D:\Projects\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.genruntimeconfig.cache
+D:\Projects\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\ref\NPuzzle.dll
+E:\computer science\level3\term 2\algo\NPuzzle\NPuzzle\bin\Debug\net6.0\NPuzzle.exe
+E:\computer science\level3\term 2\algo\NPuzzle\NPuzzle\bin\Debug\net6.0\NPuzzle.deps.json
+E:\computer science\level3\term 2\algo\NPuzzle\NPuzzle\bin\Debug\net6.0\NPuzzle.runtimeconfig.json
+E:\computer science\level3\term 2\algo\NPuzzle\NPuzzle\bin\Debug\net6.0\NPuzzle.dll
+E:\computer science\level3\term 2\algo\NPuzzle\NPuzzle\bin\Debug\net6.0\NPuzzle.pdb
+E:\computer science\level3\term 2\algo\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.csproj.AssemblyReference.cache
+E:\computer science\level3\term 2\algo\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+E:\computer science\level3\term 2\algo\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.AssemblyInfoInputs.cache
+E:\computer science\level3\term 2\algo\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.AssemblyInfo.cs
+E:\computer science\level3\term 2\algo\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.csproj.CoreCompileInputs.cache
+E:\computer science\level3\term 2\algo\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.dll
+E:\computer science\level3\term 2\algo\NPuzzle\NPuzzle\obj\Debug\net6.0\refint\NPuzzle.dll
+E:\computer science\level3\term 2\algo\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.pdb
+E:\computer science\level3\term 2\algo\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.genruntimeconfig.cache
+E:\computer science\level3\term 2\algo\NPuzzle\NPuzzle\obj\Debug\net6.0\ref\NPuzzle.dll
+D:\3rd year\2nd term\Algorithm\NPuzzle\NPuzzle\bin\Debug\net6.0\NPuzzle.exe
+D:\3rd year\2nd term\Algorithm\NPuzzle\NPuzzle\bin\Debug\net6.0\NPuzzle.deps.json
+D:\3rd year\2nd term\Algorithm\NPuzzle\NPuzzle\bin\Debug\net6.0\NPuzzle.runtimeconfig.json
+D:\3rd year\2nd term\Algorithm\NPuzzle\NPuzzle\bin\Debug\net6.0\NPuzzle.dll
+D:\3rd year\2nd term\Algorithm\NPuzzle\NPuzzle\bin\Debug\net6.0\NPuzzle.pdb
+D:\3rd year\2nd term\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.csproj.AssemblyReference.cache
+D:\3rd year\2nd term\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd year\2nd term\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.AssemblyInfoInputs.cache
+D:\3rd year\2nd term\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.AssemblyInfo.cs
+D:\3rd year\2nd term\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.csproj.CoreCompileInputs.cache
+D:\3rd year\2nd term\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.dll
+D:\3rd year\2nd term\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\refint\NPuzzle.dll
+D:\3rd year\2nd term\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.pdb
+D:\3rd year\2nd term\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\NPuzzle.genruntimeconfig.cache
+D:\3rd year\2nd term\Algorithm\NPuzzle\NPuzzle\obj\Debug\net6.0\ref\NPuzzle.dll
